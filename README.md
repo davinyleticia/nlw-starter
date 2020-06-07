@@ -9,6 +9,7 @@ O Next Level Week é uma semana prática com muito código, desafios, network
 
 # 📷 Tela inicial:
 
+![Imagem de demostração](https://raw.githubusercontent.com/davinyvidal/nlw-starter/master/public/assets/tela.png)
 
 # 📝 Sobre o site desenvolvido:
 
