@@ -19,14 +19,12 @@ A página foi feita para fins ecologicos, tem como objetivo mapeare conectar emp
 
 # 💾 Tecnologias utilizadas:
 
-
-
 > #### ☕ Front-End
 
 * JavaScript
 * HTML
 * CSS
-* sistema resposividade
+* Design responsivo.
 * API do IBGE 
   * https://servicodados.ibge.gov.br/api/v1/localidades/estados
   
